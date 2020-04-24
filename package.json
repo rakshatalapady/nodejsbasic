@@ -20,8 +20,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/rakshatalapady/nodejsbasic"
-  },
-  "author": "Francesco Marchioni <fmarchio@redhat.com>",
-  "license": "CC-BY-1.0",
-  "homepage": "http://www.mastertheboss.com"
+  }
 }
